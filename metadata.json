@@ -1,0 +1,6 @@
+{
+  "name": "CarePulse - Intelligent Healthcare Appointment & Patient Management",
+  "description": "Comprehensive hospital management platform featuring intelligent scheduling, conflict diagnostics, digital queue tracking, clinical desk teleconsultations, diagnostics vault, and workload analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
